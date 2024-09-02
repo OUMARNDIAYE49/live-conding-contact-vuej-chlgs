@@ -1,0 +1,11 @@
+# Ne pas inclure les fichiers de configuration locaux
+.env
+
+# Ne pas inclure les dépendances locales
+node_modules/
+
+# Ne pas inclure les fichiers de versioning Git
+.git/
+
+# Ne pas inclure les logs
+*.log
